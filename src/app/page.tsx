@@ -10,7 +10,7 @@ export default function Home() {
         <div className='w-2/3 mr-4'>
           <p className='text-2xl'>Hi, my name is</p>
           <h2 className='text-6xl py-8'>Jakob Edvardsson</h2>
-          <b className='text-3xl py-2'>I'm a computer science student at Malmö University, who loves tinkering with computers and software!</b>
+          <b className='text-3xl py-2'>I&apos;m a computer science student at Malmö University, who loves tinkering with computers and software!</b>
 
         </div>
         <div className='w-1/3'>
