@@ -3,8 +3,8 @@ import Link from "next/link";
 
 export default function MainHeader() {
     return (
-        <nav className="w-screen h-fit overflow-hidden bg-header dark:bg-header_d">
-            <div className="lg:text-2xl sm:text-lg text-sm py-4 lg:px-8 px-4 w-full sm:w-10/12 h-16 m-auto flex items-center justify-between">
+        <nav className="w-screen h-fit overflow-hidden flex justify-center bg-header dark:bg-header_d">
+            <div className="lg:text-2xlsm:text-lg text-sm w-[90%] sm:w-3/4 h-16 flex items-center justify-between">
                 <div>
                     <Link
                         href={"#"}
