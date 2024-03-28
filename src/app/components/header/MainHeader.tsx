@@ -14,8 +14,6 @@ export default function MainHeader() {
                     </Link>
                 </div>
                 <div className="flex lg:gap-8 gap-6 uppercase items-center">
-                    <Link href={"#"}>About Me</Link>
-                    <Link href={"#"}>Projects</Link>
                     <Link href={"#"}>Contact</Link>
                 </div>
             </div>

@@ -10,17 +10,27 @@ const config: Config = {
     colors: {
       //header
       'header_d' : '#1b1f2a',
-      'header': '#d4d4d4',
+      'header': '#D9E4EC',
 
       //background
       'background_d' : '#0d0f14',
-      'background' : '#fafafa',
+      'background' : '#FFFFFF',
 
       //box
 
+      //#e3e3e3
+      //#e3e3e3
+      //#919191
+      //#6f6f6f
+      //#262626
 
-      //background
-      'popcolor' : '#F54B64',
+      //background 
+      'button_d' : '#2f3649',
+      'button_hover_d' : '#434D68',
+      'button' : '#b7cfdc',
+      'button_hover' : '#6aabd2',
+
+
       'light_grey': '#4e596f',
       'lighter_grey': '#c4c8d3',
 
